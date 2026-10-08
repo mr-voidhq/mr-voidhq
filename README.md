@@ -4,7 +4,7 @@ I am **Danylo (Mr. Void)**, an Embedded Systems & Autonomous UAV Developer. I fo
 
 Connect with me:
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mr_void)](https://t.me/mr_void)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mrvoid117)](https://t.me/mrvoid117)
 [![Gmail Badge](https://img.shields.io/badge/-mr.void.official@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mr.void.official@gmail.com)](mailto:mr.void.official@gmail.com)
 
 ---
